@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlignTest", "AlignTest\AlignTest.csproj", "{4C50B487-CDC3-426B-977F-4A31C9D6F43B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C50B487-CDC3-426B-977F-4A31C9D6F43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C50B487-CDC3-426B-977F-4A31C9D6F43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C50B487-CDC3-426B-977F-4A31C9D6F43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C50B487-CDC3-426B-977F-4A31C9D6F43B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E7F1FD-CB0B-421D-B797-D05199321067}
+	EndGlobalSection
+EndGlobal
